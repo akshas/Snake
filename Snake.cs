@@ -11,7 +11,8 @@ namespace Snake
         int PosX;
         int PosY;
         int direction;
-        public static Dictionary <string, int> Position { get; set; }
+        public static int FoodCounter = 0;
+        public static Dictionary<string, int> Position = new Dictionary<string, int>(2); 
         Random rand = new Random();
         public delegate void DirectionHandler(string d);
 
@@ -104,6 +105,11 @@ namespace Snake
                 Console.WriteLine(Zeichen);
                 Position["top"] = PosY;
                 Position["left"] = PosX;
+           if(Snake.Position["top"] == Feed.Position["top"] && Snake.Position["left"] == Feed.Position["left"] )
+           {
+                Field.GetNewFeed();
+                FoodCounter++;
+           } 
                 Thread.Sleep(300);
 
             }
@@ -113,11 +119,6 @@ namespace Snake
 
         public void Eat()
         {
-           if(Snake.Position["top"] == Feed.Position["top"] && Snake.Position["left"] == Feed.Position["left"] )
-           {
-                Console.SetCursorPosition(0, 0);
-                Console.WriteLine(112244);
-           } 
         }
     }
 }

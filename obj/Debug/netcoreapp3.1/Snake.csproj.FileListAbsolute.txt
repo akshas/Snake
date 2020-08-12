@@ -11,3 +11,16 @@ C:\Users\alex\CsProjects\Erreignisse\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.
 C:\Users\alex\CsProjects\Erreignisse\Snake\obj\Debug\netcoreapp3.1\Snake.dll
 C:\Users\alex\CsProjects\Erreignisse\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
 C:\Users\alex\CsProjects\Erreignisse\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
+D:\MY_FILES\CSProjects\Games\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+D:\MY_FILES\CSProjects\Games\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+D:\MY_FILES\CSProjects\Games\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+D:\MY_FILES\CSProjects\Games\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+D:\MY_FILES\CSProjects\Games\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+D:\MY_FILES\CSProjects\Games\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+D:\MY_FILES\CSProjects\Games\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+D:\MY_FILES\CSProjects\Games\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+D:\MY_FILES\CSProjects\Games\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+D:\MY_FILES\CSProjects\Games\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+D:\MY_FILES\CSProjects\Games\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+D:\MY_FILES\CSProjects\Games\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+D:\MY_FILES\CSProjects\Games\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache

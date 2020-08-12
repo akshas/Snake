@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\alex\\.nuget\\packages\\": {}
+    "C:\\Users\\allex\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex\\CsProjects\\Erreignisse\\Snake\\Snake.csproj",
+      "projectUniqueName": "D:\\MY_FILES\\CSProjects\\Games\\Snake\\Snake.csproj",
       "projectName": "Snake",
-      "projectPath": "C:\\Users\\alex\\CsProjects\\Erreignisse\\Snake\\Snake.csproj",
-      "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex\\CsProjects\\Erreignisse\\Snake\\obj\\",
+      "projectPath": "D:\\MY_FILES\\CSProjects\\Games\\Snake\\Snake.csproj",
+      "packagesPath": "C:\\Users\\allex\\.nuget\\packages\\",
+      "outputPath": "D:\\MY_FILES\\CSProjects\\Games\\Snake\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\allex\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
